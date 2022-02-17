@@ -1,9 +1,11 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
 <h1>Olá, me chamo Juliano Teodoro</h1>
 
 <ul>
 <li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Unicesumar</li>
-<li>Conhecimento em HTML/CSS/Bootstrap e C# básico</li>
-<li>Estudando JavaScript. </li>
+<li>Conhecimento em HTML/CSS/Bootstrap, C# básico e JavaScript</li>
+  <li>Estudando VueJS e MySQL</li>
 </ul>
 
 <p></p>
