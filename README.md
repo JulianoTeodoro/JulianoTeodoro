@@ -4,7 +4,7 @@
 
 <ul>
 <li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Unicesumar</li>
-<li>Conhecimento em HTML/CSS/Bootstrap, C# básico e JavaScript</li>
+<li>Conhecimento em HTML/CSS/Bootstrap, C# básico e JavaScript Intermediário</li>
   <li>Estudando VueJS e MySQL</li>
 </ul>
 
