@@ -18,3 +18,8 @@ style = "max-width:100%">
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=julianoteodoro&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoteodoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</br>
+
+<img src="https://camo.githubusercontent.com/255bd0be37b6c67aca3ddaa71b757716208a09b014f5f7855e8482a5ee6a47ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4645414533323f7374796c653d666c6174266c6f676f436f6c6f723d666666266c6f676f3d6a617661736372697074
+">
+
