@@ -21,6 +21,6 @@ style = "max-width:100%">
 </br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-007ACC?style=flat&logoColor=fff&logo=html)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-F24F00?style=flat&logoColor=fff&logo=html)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 
