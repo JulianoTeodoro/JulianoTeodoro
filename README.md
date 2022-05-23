@@ -4,8 +4,8 @@
 
 <ul>
 <li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Unicesumar</li>
-<li>Conhecimento em HTML/CSS/Bootstrap, C# básico e JavaScript Intermediário</li>
-  <li>Estudando VueJS</li>
+<li>Conhecimentos em HTML/CSS/JS/Bootstrap 5, C# básico e Vue.JS intermed</li>
+  <li>Estudando PHP</li>
 </ul>
 
 <p></p>
@@ -19,4 +19,8 @@ style = "max-width:100%">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoteodoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-007ACC?style=flat&logoColor=fff&logo=html)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 
