@@ -4,7 +4,7 @@
 
 <ul>
 <li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Unicesumar</li>
-<li>Conhecimentos em HTML/CSS/JS/Bootstrap 5, C# básico e Vue.JS intermed</li>
+<li>Conhecimentos em HTML/CSS/JS/Bootstrap 5, Vue.JS e C# básico</li>
   <li>Estudando PHP</li>
 </ul>
 
@@ -21,6 +21,5 @@ style = "max-width:100%">
 </br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-F24F00?style=flat&logoColor=fff&logo=html)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 
