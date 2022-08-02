@@ -5,7 +5,6 @@
 <ul>
 <li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Unicesumar</li>
 <li>Conhecimentos em HTML/CSS/JS/Bootstrap 5, Vue.JS, C#, Dart/Flutter e PHP</li>
-  <li>Estudando Flutter</li>
 </ul>
 
 <p></p>
