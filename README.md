@@ -3,8 +3,8 @@
 <h1>Olá, me chamo Juliano Teodoro</h1>
 
 <ul>
-<li>Cursando 2° periodo de Analise e Desenvolvimento de Sistemas - Estacio</li>
-<li>Conhecimentos em HTML/CSS/JS/Bootstrap 5, Vue.JS, C#, Dart/Flutter e PHP</li>
+<li>Cursando 3° periodo de Analise e Desenvolvimento de Sistemas - Estacio</li>
+<li>Conhecimentos em HTML/CSS/JavaScript, Vue.JS, C#, ASP .NET Core</li>
 </ul>
 
 <p></p>
