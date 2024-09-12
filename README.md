@@ -24,7 +24,7 @@ style = "max-width:100%">
 <h2>Tecnologias: </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=angular&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%2335495e.svg?style=for-the-badge&logo=angular&logoColor=%2FF0000)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
