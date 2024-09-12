@@ -3,8 +3,8 @@
 <h1>Olá, me chamo Juliano Fernandes</h1>
 
 <ul>
-<li>Cursando 3° periodo de Analise e Desenvolvimento de Sistemas - Estacio</li>
-<li>Conhecimentos em HTML/CSS/JavaScript, Vue.JS, C#, ASP .NET Core</li>
+<li>Cursando 5° periodo de Analise e Desenvolvimento de Sistemas - Estacio</li>
+<li>Conhecimentos em HTML/CSS/JavaScript/TypeScript, Angular, C#, ASP .NET Core, SQL Server</li>
 </ul>
 
 <p></p>
