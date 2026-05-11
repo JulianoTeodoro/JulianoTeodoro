@@ -1,34 +1,82 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+# Olá, eu sou Juliano Teodoro 👋
 
-<h1>Olá, me chamo Juliano Fernandes</h1>
+Desenvolvedor de software com 3 anos de experiência no mercado, focado na qualidade de entrega de software e na construção de soluções escaláveis e bem estruturadas.
 
-<ul>
-<li>Cursando 5° periodo de Analise e Desenvolvimento de Sistemas - Estacio</li>
-<li>Conhecimentos em HTML/CSS/JavaScript/TypeScript, Angular, C#, ASP .NET Core, SQL Server</li>
-</ul>
+Tenho como pilares a colaboração em equipe, comunicação clara e evolução contínua, buscando sempre contribuir para o sucesso dos projetos e gerar valor através da tecnologia.
 
-<p></p>
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoteodoro)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoteodoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<h2>Redes sociais: </h2>
+## 🚀 Sobre mim
 
-<a href="https://www.linkedin.com/in/juliano-teodoro/">
-<img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-style = "max-width:100%">
+- 💻 Desenvolvedor Full Stack com foco em Back-end
+- ⚙️ Experiência com APIs REST, microserviços e mensageria
+- 🧱 Adepto de boas práticas e arquitetura limpa
+- 📚 Sempre buscando evolução técnica e profissional
+- 🤝 Valorizo trabalho em equipe e comunicação eficiente
+
+---
+
+## 🛠️ Linguagens e Frameworks
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-1E1E1E?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge)
+![Unit Tests](https://img.shields.io/badge/Testes%20de%20Unidade-6DB33F?style=for-the-badge)
+
+---
+
+## 📨 Mensagerias
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Google PubSub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🧩 Padrões e Arquitetura
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- SOLID
+
+---
+
+## 📋 Metodologias Ágeis
+
+- Scrum
+- Kanban
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianoTeodoro&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoTeodoro&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 🌎 Redes Sociais
+
+<a href="https://www.linkedin.com/in/juliano-teodoro/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</br>
-
-<h2>Tecnologias: </h2>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%2335495e.svg?style=for-the-badge&logo=angular&logoColor=%2FF0000)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
+<a href="https://github.com/JulianoTeodoro" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
